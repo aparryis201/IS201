@@ -1,0 +1,51 @@
+/*Anna Parry December 10, 2021*/
+/*style 1*/
+.thisisit {
+    color: tan;
+    --bs-text-opacity: 1;
+  }
+
+  /*style 2*/
+.theheader{
+    color: oldlace;
+}
+
+/*style 3*/
+.mybutton{
+    box-shadow: 0px 3px 3px 0px darkkhaki;
+        color: #000;
+        background-color: #FFFFCC;
+        border-color: #FFFFCC;
+}
+
+/*style 4*/
+.mycontainer{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color:#FFFFCC;
+}
+
+/*Images*/
+.mycenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.leftmenu {
+    top: 114px;
+    left: 5px;
+    width: 100px;
+    bottom: 64px;
+    z-index: 1;
+
+}
+
+.resumelistheader{
+    font-weight: bold;
+    font-style: normal;
+}
+
+.underline {text-decoration: underline;}
+
